@@ -1,4 +1,4 @@
-# Site Institucional para Naylor - Pesquisa Científica e Estudos
+# Site Institucional Naylor - Pesquisa Científica e Estudos
 
 Aqui está uma proposta de estrutura e design para o site da sua instituição Naylor:
 
